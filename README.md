@@ -6,14 +6,14 @@ Olá, sou Gabriel Alexsander, sou um dev apaixonado por tecnologia!
 Por enquanto trabalho com Front End! 
 
 
-- 📫 Como me contatar: [@_biel_swk05](https://www.instagram.com/biel_swk05/);
+- 📫 Como me contatar: [@_biel_dfst05](https://www.instagram.com/biel_dfst05/);
 <br>
 
 
 ### Conecte-se comigo:
 
 
-<a href="https://www.instagram.com/biel_swk05/"> 
+<a href="https://www.instagram.com/biel_dfst05"> 
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"/> 
 </a>
 
