@@ -37,6 +37,6 @@ Linguagens e ferramentas já aprendidas:
 <code> <img alt="JS-logo" width="30px" height="30px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg">
 </code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalexsander18&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalexsander18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
