@@ -3,7 +3,7 @@
 
 Olá, sou Gabriel Alexsander, sou um dev apaixonado por tecnologia!
 
-Por enquanto trabalho com Front End! 
+Por trabalho com Front-End e Back-End! 
 
 
 - 📫 Como me contatar: [@_biel_dfst05](https://www.instagram.com/biel_dfst05/);
