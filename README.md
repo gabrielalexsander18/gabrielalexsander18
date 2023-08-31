@@ -16,7 +16,7 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado u
 </a>
 
 
-<a target="_blank" href="https://www.linkedin.com/in/gabriel-alexsander-b461b1250/"> 
+<a href="https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/"> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin-logo"/> 
 </a>
 
