@@ -1,44 +1,57 @@
-### Hi there :sunglasses:
+# Hi there :sunglasses:
 
 
-Olá, sou Gabriel Alexsander, sou um dev apaixonado por tecnologia!
+Sou Gabriel Alexsander, um dev apaixonado por tecnologia!<br>
+Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado ultimamente na aprendizagem e utilização do React.js 
 
-Por trabalho com Front-End e Back-End! 
-
-
+- 💬 Pergunte sobre qualquer coisa: [Here](https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/)
 - 📫 Como me contatar: [@_biel_dfst05](https://www.instagram.com/biel_dfst05/);
 <br>
 
 
-### Conecte-se comigo:
+## Conecte-se comigo:
 
 <div>
 <a href="https://www.instagram.com/biel_dfst05"> 
-<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"/> 
+<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="instagram-logo"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gabriel-alexsander-b461b1250/"> 
-<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/785/785312.png"/> 
+
+<a target="_blank" href="https://www.linkedin.com/in/gabriel-alexsander-b461b1250/"> 
+<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin-logo"/> 
 </a>
+
+
 </div>
+<br>
+<br>
+<br>
+<br>
+
+### Meu Portfólio 
+
+<a href="https://gabrielabreu.vercel.app"> 
+<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/8644/8644474.png" alt="portfolio-logo"/> 
+</a>
+<br>
 <br>
 <br>
 
 <p align="left">             
-<br>
 Linguagens e ferramentas já aprendidas:
 <p/>
-<br>
 
 <div>
-<code> <img alt="html-logo" width="30px" height="30px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
-</code>
-<code> <img alt="css-logo" width="30px" height="30px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png">
-</code>
-<code> <img alt="JS-logo" width="30px" height="30px" src="https://img1.gratispng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg">
-</code>
+<img alt="html-logo" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">
+<img alt="css-logo" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
+<img alt="JS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
+<img alt="ReactJS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png">
+<img alt="NodeJS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
+<img alt="Docker-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/919/919853.png">
 </div>
+<br>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Gabriel Alexsander](https://github-readme-stats.vercel.app/api?username=gabrielalexsander18&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalexsander18&layout=compact)
