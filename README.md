@@ -5,7 +5,6 @@ Sou Gabriel Alexsander, um dev apaixonado por tecnologia!<br>
 Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado ultimamente na aprendizagem e utilização do React.js 
 
 - 💬 Pergunte sobre qualquer coisa: [Here](https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/)
-- 📫 Como me contatar: [@_biel_dfst05](https://www.instagram.com/biel_dfst05/);
 <br>
 
 
