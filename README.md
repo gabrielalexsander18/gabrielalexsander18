@@ -5,14 +5,15 @@ Um dev apaixonado por tecnologia!<br>
 Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utilizado atualmente o Front-end.
 
 ### Meu Portfólio
-
-<a href="https://gabrielabreu.vercel.app"> 
-<img align="left" width="50px" src="https://github.com/gabrielalexsander18/gabrielalexsander18/issues/1#issue-2060866261" alt="portfolio-logo"/> 
+<div align="left" width="50px">
+<a href="https://gabrielabreu.vercel.app">
+<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/9537/9537970.png" alt="portfolio-logo"/> 
 </a>
+</div>
 <br>
 <br>
-<br>
-<br>
+
+##
 
 <div>       
 <img alt="html-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
