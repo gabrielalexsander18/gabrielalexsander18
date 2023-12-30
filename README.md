@@ -11,12 +11,12 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado u
 ## Conecte-se comigo:
 
 <div>
-<a href="https://www.instagram.com/biel_dfst05"> 
+<a href="https://www.instagram.com/bielx_dfend/" target="_blank"> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="instagram-logo"/>
 </a>
 
 
-<a href="https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/"> 
+<a href="https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/" target="_blank"> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin-logo"/> 
 </a>
 
@@ -29,7 +29,7 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado u
 
 ### Meu Portfólio 
 
-<a href="https://gabrielabreu.vercel.app"> 
+<a href="https://gabrielabreu.vercel.app" target="_blank"> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/8644/8644474.png" alt="portfolio-logo"/> 
 </a>
 <br>
