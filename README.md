@@ -7,7 +7,7 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utiliza
 ### Meu Portfólio
 
 <a href="https://gabrielabreu.vercel.app"> 
-<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/8644/8644474.png" alt="portfolio-logo"/> 
+<img align="left" width="50px" src="https://github.com/gabrielalexsander18/gabrielalexsander18/issues/1#issue-2060866261" alt="portfolio-logo"/> 
 </a>
 <br>
 <br>
