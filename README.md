@@ -14,10 +14,6 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utiliza
 <br>
 <br>
 
-##
-
-
-
 <div>       
 <img alt="html-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img alt="css-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -28,7 +24,6 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utiliza
 </div>
 
 ##
-
 
 <div>
 <a href="https://www.instagram.com/bielx_dfend/" target="_blank"> 
@@ -44,6 +39,8 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utiliza
 </a>
 </div>
 <br>
+<br>
+<br>
 
-##
+
 ![Gabriel Alexsander](https://github-readme-stats.vercel.app/api?username=gabrielalexsander18&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalexsander18&layout=compact&theme=dark)
