@@ -1,56 +1,49 @@
-# Hi there :sunglasses:
+# Eai!! Sou o Gabriel Alexsander
 
 
-Sou Gabriel Alexsander, um dev apaixonado por tecnologia!<br>
-Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado ultimamente na aprendizagem e utilização do React.js 
+Um dev apaixonado por tecnologia!<br>
+Trabalho com Front-end, Back-end e até mesmo o Full-stack. Sendo o mais utilizado atualmente o Front-end.
 
-- 💬 Pergunte sobre qualquer coisa: [Here](https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/)
-<br>
+### Meu Portfólio
 
-
-## Conecte-se comigo:
-
-<div>
-<a href="https://www.instagram.com/bielx_dfend/" {target="_blank"}> 
-<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="instagram-logo"/>
-</a>
-
-
-<a href="https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/" target="_blank"> 
-<img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin-logo"/> 
-</a>
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
-### Meu Portfólio 
-
-<a href="https://gabrielabreu.vercel.app" target="_blank"> 
+<a href="https://gabrielabreu.vercel.app"> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/8644/8644474.png" alt="portfolio-logo"/> 
 </a>
 <br>
 <br>
 <br>
+<br>
 
-<p align="left">             
-Linguagens e ferramentas já aprendidas:
-<p/>
+##
+
+
+
+<div>       
+<img alt="html-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="css-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="JS-logo" width="40px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img alt="ReactJS-logo" width="40px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img alt="NodeJS-logo" width="40px"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img alt="Docker-logo" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+
+##
+
 
 <div>
-<img alt="html-logo" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">
-<img alt="css-logo" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
-<img alt="JS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
-<img alt="ReactJS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png">
-<img alt="NodeJS-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
-<img alt="Docker-logo" width="40px"  src="https://cdn-icons-png.flaticon.com/128/919/919853.png">
+<a href="https://www.instagram.com/bielx_dfend/" target="_blank"> 
+<img align="left" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram-logo"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100007771186703" target="_blank"> 
+<img align="left" height="35px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" alt="facebook-logo"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-alexsander-faria-abreu-b461b1250/" target="_blank"> 
+<img align="left" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin-logo"/> 
+</a>
 </div>
 <br>
-<br>
 
-![Gabriel Alexsander](https://github-readme-stats.vercel.app/api?username=gabrielalexsander18&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalexsander18&layout=compact)
+##
+![Gabriel Alexsander](https://github-readme-stats.vercel.app/api?username=gabrielalexsander18&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalexsander18&layout=compact&theme=dark)
