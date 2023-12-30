@@ -11,7 +11,7 @@ Trabalho com Front-end, Back-end e até mesmo o Full-stack. Porém mais focado u
 ## Conecte-se comigo:
 
 <div>
-<a href="https://www.instagram.com/bielx_dfend/" target="_blank"> 
+<a href="https://www.instagram.com/bielx_dfend/" {target="_blank"}> 
 <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="instagram-logo"/>
 </a>
 
